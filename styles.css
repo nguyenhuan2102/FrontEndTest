@@ -71,15 +71,15 @@ table {
   margin-left: 10%;
   align-items: center;
 }
-.content .Re2 {
-}
-.content .Re3 {
-}
-.content .Re4 {
-}
+
 .img {
   width: 128px;
   height: 128px;
+}
+.footer {
+  margin-left: 10%;
+  margin-top: 0%;
+  height: 5%;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
